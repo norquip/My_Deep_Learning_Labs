@@ -6,7 +6,7 @@ This repository contains my explorations and hands-on practice labs on  Deep Lea
 ## Overview
 
 This project builds and trains a Convolutional Neural Network (CNN) to classify images of daisy and sunflower flowers. See ([DaisySun_Adam_SGD](https://github.com/norquip/My_Deep_Learning_Labs/blob/main/DaisySun_Adam_SGD.ipynb)).
-The goal is to compare two popular optimization algorithms—Adam and SGD—and evaluate their effect on training stability, convergence speed, and overall performance.
+The goal is to understand several concepts thar are involved in the construction of CNN. 
 
 This lab was developed as part of my personal deep learning learning path.
 
@@ -14,8 +14,8 @@ This lab was developed as part of my personal deep learning learning path.
 
 * I wanted to practice the generator-based data loading to work directly with image file paths instead of loading all images into memory.
 * I was particularly interested in exploring how different data transformations operate and how they contribute to improving the model’s accuracy.
-* I wanted to understand how optimization choices affect model behavior.
-Even with the same architecture and data, Adam and SGD can produce different learning curves, stability patterns, and ROC/AUC results.
+* I wanted to understand how optimization choices affect model behavior. How differents are the learning curves for Adam and SGD optimization. 
+
 
 ## Model Architecture
 
