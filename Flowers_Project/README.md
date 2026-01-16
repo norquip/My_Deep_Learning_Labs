@@ -1,5 +1,3 @@
-# My_Deep_Learning_Labs
-This repository contains my explorations and hands-on practice labs on  Deep Learning. 
 
 # Flower Classification with CNN — Adam vs SGD Optimization
 
@@ -8,7 +6,7 @@ This repository contains my explorations and hands-on practice labs on  Deep Lea
 This project builds and trains a Convolutional Neural Network (CNN) to classify images of daisy and sunflower flowers. See ([DaisySun_Adam_SGD](https://github.com/norquip/My_Deep_Learning_Labs/blob/main/DaisySun_Adam_SGD.ipynb)).
 The goal is to understand several concepts thar are involved in the construction of CNN. 
 
-This lab was developed as part of my personal deep learning learning path.
+This lab was developed as part of my personal deep learning path.
 
 ## Motivation
 
