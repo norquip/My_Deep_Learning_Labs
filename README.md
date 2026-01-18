@@ -20,6 +20,7 @@ These projects have allowed me to build a deeper and more solid understanding of
 
 
 
+### 3.  More projects will be added over time.
 
 
 ## Repository Structure
@@ -45,7 +46,6 @@ My_Deep_Learning_Labs/
 └── .gitignore
 ```
 
-### 3.  More projects will be added over time.
 
 
 
