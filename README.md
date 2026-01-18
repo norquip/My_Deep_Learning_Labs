@@ -15,17 +15,17 @@ This project explores image classification tasks on flower datasets using PyTorc
     - Focus on  generator-based data loading, clean dataset handling and reproducibility.
     - Experiments with different optimizers (Adam vs SGD)
 
-Notebook: `notebooks/Daisy_Sunflowers.ipynb`
-
-Poster: `Posters/Poster_DaisySun_Adam_SGD.pdf`
-
-   
+    Notebook: `notebooks/Daisy_Sunflowers.ipynb`
+    
+    Poster: `Posters/Poster_DaisySun_Adam_SGD.pdf`
+ 
+    
     
 
   * Full Flowers Dataset
-- Multiclass classification using the full flowers dataset
-- More challenging class imbalance and higher variability
-- 🚧 Work in progress
+   - Multiclass classification using the full flowers dataset
+   - More challenging class imbalance and higher variability
+   - 🚧 Work in progress
 
 ### 2. Vertebral Classification
 
