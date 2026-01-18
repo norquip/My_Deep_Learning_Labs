@@ -18,7 +18,7 @@ These projects have allowed me to build a deeper and more solid understanding of
 
 * Classification experiment on vertebral column data using PyTorch. The dataset is multiclass and imbalanced. 
 
-More projects will be added over time.
+### More projects will be added over time.
 
 ## Repository Structure
 
