@@ -20,6 +20,8 @@ These projects have allowed me to build a deeper and more solid understanding of
 
 
 
+
+
 ## Repository Structure
 
 ```text
@@ -41,11 +43,9 @@ My_Deep_Learning_Labs/
 │   └── README.md         # project-specific
 │
 └── .gitignore
+```
 
-
-### More projects will be added over time.
-
-
+### 3.  More projects will be added over time.
 
 
 
