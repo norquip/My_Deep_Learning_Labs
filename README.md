@@ -1,10 +1,49 @@
- 
-# My Deep Learning Labs
+ # My Deep Learning Labs
 
-These notebooks represent my personal learning process and independent experimentation with deep learning concepts.
-The goal of this, is to put into practice the concepts I have learned so far from the following Coursera courses:
+This repository contains a collection of independent deep learning projects developed as part of my personal learning and experimentation process.
+These projects have allowed me to build a deeper and more solid understanding of the models, concepts, and code involved in deep learning.
 
-1. **Deep Learning Specialization** by DeepLearning.AI  
-2. **IBM AI Engineering Professional Certificate** (Courses 1–8)
+## Projects
+### 1. Flowers Classification
 
-These labs allow me to build a deeper and more solid understanding of the concepts, models, and code involved in deep learning.
+* Exploration and classification of flower images
+
+* Notebooks:
+
+  * Daisy vs Sunflowers
+
+  * Full Flowers Dataset (🚧 Under Construction)
+
+### 2. Vertebral Dataset
+
+* Classification experiments on vertebral column data
+
+More projects will be added over time.
+
+## Repository Structure
+
+My_Deep_Learning_Labs/
+│
+├── README.md
+│
+├── Flowers/
+│   ├── notebooks/
+│   │   ├── Daisy_Sunflowers.ipynb
+│   │   └── Full_Flowers.ipynb
+│   ├── Posters/
+│   │   └── Flowers_Poster.pdf
+│   └── README.md        # project-specific
+│
+├── Vertebral/
+│   ├── notebooks/
+│   │   └── Vertebral.ipynb
+│   └── README.md        # project-specific
+│
+└── .gitignore
+
+
+
+
+
+
+
