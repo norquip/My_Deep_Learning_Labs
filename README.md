@@ -30,15 +30,15 @@ My_Deep_Learning_Labs/
 │
 ├── README.md
 │
-├── Flowers/
+├── Flowers_Classification/
 │   ├── notebooks/
 │   │   ├── Daisy_Sunflowers.ipynb
 │   │   └── Full_Flowers.ipynb
 │   ├── Posters/
-│   │   └── Flowers_Poster.pdf
+│   │   └── Poster_DaisySun_Adam_SGD.pdf
 │   └── README.md         # project-specific
 │
-├── Vertebral/
+├── Vertebral_Classification/
 │   ├── notebooks/
 │   │   └── Vertebral.ipynb
 │   └── README.md         # project-specific
