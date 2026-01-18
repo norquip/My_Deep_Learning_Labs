@@ -10,7 +10,7 @@ These projects have allowed me to build a deeper and more solid understanding of
 
 * Notebooks:
 
-  * Daisy vs Sunflowers
+  * Daisy vs Sunflowers (Exploration and classification of a balanced binary subset extracted from the full flowers dataset.)
 
   * Full Flowers Dataset (🚧 Under Construction)
 
@@ -23,10 +23,13 @@ More projects will be added over time.
 ## Repository Structure
 
 My_Deep_Learning_Labs/
+
 │
 ├── README.md
 │
+
 ├── Flowers/
+
 │   ├── notebooks/
 │   │   ├── Daisy_Sunflowers.ipynb
 │   │   └── Full_Flowers.ipynb
