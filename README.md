@@ -23,9 +23,9 @@ This project explores image classification tasks on flower datasets using PyTorc
     
 
   * Full Flowers Dataset
-   - Multiclass classification using the full flowers dataset
-   - More challenging class imbalance and higher variability
-   - 🚧 Work in progress
+    - Multiclass classification using the full flowers dataset
+    - More challenging class imbalance and higher variability
+    - 🚧 Work in progress
 
 ### 2. Vertebral Classification
 
