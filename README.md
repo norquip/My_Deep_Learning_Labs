@@ -6,13 +6,26 @@ These projects have allowed me to build a deeper and more solid understanding of
 ## Projects
 ### 1. Flowers Classification
 
-* Exploration and classification of flower images with PyTorch.
+This project explores image classification tasks on flower datasets using PyTorch.
 
-* Notebooks:
+#### Notebooks:
 
-  * Daisy vs Sunflowers (Exploration and classification of a balanced binary subset extracted from the full flowers dataset.)
+  * Daisy vs Sunflowers
+    - Exploration and classification of a balanced binary subset extracted from the full flowers dataset.
+    - Focus on  generator-based data loading, clean dataset handling and reproducibility.
+    - Experiments with different optimizers (Adam vs SGD)
 
-  * Full Flowers Dataset (🚧 Under Construction)
+Notebook: `notebooks/Daisy_Sunflowers.ipynb`
+
+Poster: `Posters/Poster_DaisySun_Adam_SGD.pdf`
+
+   
+    
+
+  * Full Flowers Dataset
+- Multiclass classification using the full flowers dataset
+- More challenging class imbalance and higher variability
+- 🚧 Work in progress
 
 ### 2. Vertebral Classification
 
