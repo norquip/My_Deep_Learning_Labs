@@ -14,7 +14,7 @@ These projects have allowed me to build a deeper and more solid understanding of
 
   * Full Flowers Dataset (🚧 Under Construction)
 
-### 2. Vertebral Dataset
+### 2. Vertebral Classification
 
 * Classification experiment on vertebral column data using PyTorch. The dataset is multiclass and imbalanced. 
 
