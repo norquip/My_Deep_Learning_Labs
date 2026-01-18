@@ -15,7 +15,7 @@ This project explores image classification tasks on flower datasets using PyTorc
     - Focus on  generator-based data loading, clean dataset handling and reproducibility.
     - Experiments with different optimizers (Adam vs SGD)
 
-    Notebook: `notebooks/Daisy_Sunflowers.ipynb`
+    Notebook: `notebooks/DaisySun_Adam_SGD.ipynb`
     
     Poster: `Posters/Poster_DaisySun_Adam_SGD.pdf`
  
