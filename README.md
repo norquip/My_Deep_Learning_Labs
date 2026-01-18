@@ -22,6 +22,7 @@ More projects will be added over time.
 
 ## Repository Structure
 
+```text
 My_Deep_Learning_Labs/
 │
 ├── README.md
@@ -41,7 +42,7 @@ My_Deep_Learning_Labs/
 │
 └── .gitignore
 
-
+´´´
 
 
 
