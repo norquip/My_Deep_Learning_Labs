@@ -42,7 +42,7 @@ My_Deep_Learning_Labs/
 │
 └── .gitignore
 
-´´´
+
 
 
 
