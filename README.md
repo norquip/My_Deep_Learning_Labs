@@ -45,7 +45,7 @@ My_Deep_Learning_Labs/
 │
 ├── Flowers_Classification/
 │   ├── notebooks/
-│   │   ├── Daisy_Sunflowers.ipynb
+│   │   ├── DaisySun_Adam_SGD.ipynb
 │   │   └── Full_Flowers.ipynb
 │   ├── Posters/
 │   │   └── Poster_DaisySun_Adam_SGD.pdf
