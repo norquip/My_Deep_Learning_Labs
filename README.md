@@ -23,26 +23,24 @@ More projects will be added over time.
 ## Repository Structure
 
 My_Deep_Learning_Labs/
-
 │
 ├── README.md
 │
-
 ├── Flowers/
-
 │   ├── notebooks/
 │   │   ├── Daisy_Sunflowers.ipynb
 │   │   └── Full_Flowers.ipynb
 │   ├── Posters/
 │   │   └── Flowers_Poster.pdf
-│   └── README.md        # project-specific
+│   └── README.md         # project-specific
 │
 ├── Vertebral/
 │   ├── notebooks/
 │   │   └── Vertebral.ipynb
-│   └── README.md        # project-specific
+│   └── README.md         # project-specific
 │
 └── .gitignore
+
 
 
 
