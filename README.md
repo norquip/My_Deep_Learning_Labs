@@ -6,7 +6,7 @@ These projects have allowed me to build a deeper and more solid understanding of
 ## Projects
 ### 1. Flowers Classification
 
-* Exploration and classification of flower images
+* Exploration and classification of flower images with PyTorch.
 
 * Notebooks:
 
@@ -16,7 +16,7 @@ These projects have allowed me to build a deeper and more solid understanding of
 
 ### 2. Vertebral Dataset
 
-* Classification experiments on vertebral column data
+* Classification experiment on vertebral column data using PyTorch. The dataset is multiclass and imbalanced. 
 
 More projects will be added over time.
 
