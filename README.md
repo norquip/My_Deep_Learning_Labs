@@ -17,7 +17,7 @@ This project explores image classification tasks on flower datasets using PyTorc
 
     Notebook: [Daisy_Sun_Adam_SGD](Daisy_Sunflowers/notebooks/DaisySun_Adam_SGD.ipynb)
     
-    Poster: `Posters/Poster_DaisySun_Adam_SGD.pdf`
+    Poster: [Poster_Daisy_Sunflowers](https://github.com/norquip/My_Deep_Learning_Labs/tree/main/Daisy_Sunflowers/Posters)
  
     
     
