@@ -20,13 +20,13 @@ README: Details associated to the exploration of this dataset.
     
     
 ### 2.  Full Flowers Dataset (🚧 Work in progress)
-    - Multiclass classification using the full flowers dataset
-    - More challenging class imbalance and higher variability
-    - 🚧 Work in progress
+- Multiclass classification using the full flowers dataset
+- More challenging class imbalance and higher variability
+- Use Pytorch and transfer learning. 
 
 ### 3. Vertebral Classification (🚧 Work in progress)
 
-* Classification experiment on vertebral column data using PyTorch. The dataset is multiclass and imbalanced. 
+- Classification experiment on vertebral column data using PyTorch. The dataset is multiclass and imbalanced. 
 
 
 
