@@ -30,7 +30,7 @@ README: Details associated to the exploration of this dataset.
 
 
 
-### 3.  More projects will be added over time.
+###  More projects will be added over time.
 
 
 ## Repository Structure
