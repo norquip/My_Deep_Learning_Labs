@@ -66,6 +66,8 @@ Special thanks to the IBM course *AI Capstone Project with Deep Learning*, which
 The utility functions "set_seed()" and the "misclassified-image display" function were copied from the IBM ungraded labs, where they were provided as part of the learning materials.
 All model design, training loops, optimizer comparison, plots, and analysis were created independently.
 
+Special thanks to all the photographers associated to the Flowers dataset. 
+
 
 # Revisited Version
 Last month, I shared an earlier version of this notebook. After reading more literature and spending more time reviewing the code,  I realized that I had made two important mistakes: 
