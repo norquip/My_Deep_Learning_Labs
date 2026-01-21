@@ -92,6 +92,9 @@ While the overall behavior of the model remained similar, correcting the data pi
 
 
 ## Final remarks
+
+Paraphrasing an idea often attributed to Daniel Dennett: “An unacknowledged error is still an error; once acknowledged, it becomes progress.”
+
 Revisiting this notebook helped me understand how easily subtle issues in data handling can affect both reproducibility and experimental correctness. These are small details, but they matter a lot in deep learning projects and fixing them is part of the learning process. 
 
 As a final note, the results presented in the poster correspond to the original version of the notebook. I decided not to change the results in the poster in order to highlight how the loss curves were improved after implementing the corrections described above. 
@@ -102,5 +105,5 @@ The complete dataset  of 5 flower classes is significantly imbalanced, which int
 I tested a similar model on the full dataset, but the resulting accuracy was not strong enough. As a next step, I plan to apply transfer learning to improve performance on the complete dataset.
 
 
-Paraphrasing an idea often attributed to Daniel Dennett: “An unacknowledged error is still an error; once acknowledged, it becomes progress.”
+
 
