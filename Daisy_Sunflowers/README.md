@@ -79,7 +79,6 @@ I initially downloaded and referenced the dataset using absolute paths pointing 
    
 When loading the dataset, I applied the transformations defined for the training set to the entire dataset. Later, after splitting the data into training and validation sets, I applied a separate 
 validation transformation to the validation set. As a result, the validation data was transformed twice, which is incorrect.
-In addition, I used "random_split" to create the train/val/test sets. But "random_split" does not create independent dataset, it only splits indices. Therefore, I didn´t create independent datasets.
 
 ## Corrections and Improvements
 These issues have been corrected in the current version of the notebook.  
