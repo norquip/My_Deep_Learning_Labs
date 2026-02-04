@@ -15,7 +15,7 @@ Notebook: [Daisy_Sun_Adam_SGD](Daisy_Sunflowers/notebooks/DaisySun_Adam_SGD.ipyn
      
 Poster: [Poster_Daisy_Sunflowers](https://github.com/norquip/My_Deep_Learning_Labs/tree/main/Daisy_Sunflowers/Posters)
 
-Details associated to the exploration of this dataset are here: [README](README). 
+Details associated to the exploration of this dataset are here: [README](https://github.com/norquip/My_Deep_Learning_Labs/blob/main/Daisy_Sunflowers/README.md). 
  
     
     
